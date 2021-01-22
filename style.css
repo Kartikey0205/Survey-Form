@@ -104,6 +104,8 @@ textarea{
     background-color: green;
     color: white;
     font-size: 22px;
+    cursor: pointer;
+
 }
 
 /* #name{
